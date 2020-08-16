@@ -4,34 +4,6 @@
 
 ---
 
-## Teams
-
-### Top Team
-
-> Markers:
-
-- Player 1 (Rally Leader)
-- Player 2 (Garrison)
-- Player 3 (Star player)
-- Player 4 (Star player)
-- Player 5 (Farmer)
-- Player 6
-- Player 7
-- Player 8
-
-### Bottom Team
-
-- Player 1 (Rally Leader)
-- Player 2 (Garrison)
-- Player 3 (Star player)
-- Player 4 (Star player)
-- Player 5 (Farmer)
-- Player 6
-- Player 7
-- Player 8
-
----
-
 ## Requirements to join the team:
 
 - Max war technology of one troop type.
@@ -53,7 +25,7 @@
 - Reinforcing from `long distance` multiple times.
 - Using `weak commanders` (Scipio, Boudica, Osman, Lohar, Blue & greens) as primary for `field fights`.
 - Launching rally when you're not `assigned` the role of rally leader.
-- Not having `garrison` on your `assigned` stronghold.
+- Not having `garrison commander` on your `assigned` stronghold.
 - Launching rally with `Epics`, <a href="#banned rallies">Banned Rally Commanders</a> ands `Non Expertized Commanders`.
 
 ---
@@ -74,7 +46,7 @@
 
 ---
 
-### Allowed Garrison Pairing
+## Allowed Garrison Pairing
 
 > Richards and EPICS are not allowed for garrisons
 
@@ -86,7 +58,7 @@
 - Yi Sun-sin. (Not Available)
 - Theodora. (Not Available)
 
-### Allowed Rally Commanders against strongholds
+## Allowed Rally Commanders against strongholds
 
 > Minamoto, Cao Cao and EPICS are not allowed for rallies
 
@@ -97,3 +69,78 @@
 - Guan Yu. [Alex, Leonidas]
 - Edward. [Tomyris, YSG]
 - Ramases. [YSG, Artemisia]
+
+---
+
+## Roles
+
+### Rally leader
+
+- Ability to assign markers.
+- You will be assigned to a strong hold which you have to keep rallying.
+- When you launch rally make sure you're free marches are already marching towards the stronghold for open field support.
+
+### Garrison Captain
+
+- Ability to assign markers.
+- Always have your commander inside the strong hold.
+- Make sure to have free marches at your garrison for open field support.
+
+### Farm Master
+
+- Your role is to constantly farming with FULL at least 3-4 marches & call them back `5 minutes` before the match ends.
+- You will be responsible for having 1 or 2 march to protect outposts especially when `ARK` appears.
+- You can do join reinforcements and filed fights when It's time.
+
+## Star Player
+
+- Can join there side of rallies & garrison.
+- Will mainly focus field fights right next the middle ground. So they can run towards ark in less time before ark spawns.
+- Star Players will only fight open field battles right next the middle ground.
+
+## Star Player
+
+- Can join there side of rallies & garrison.
+- Will support rallies and garrison on Corners & will divide them selves to star player's position before ark spawns.
+
+---
+
+## Teams
+
+### Top Team
+
+> Markers:
+
+- Player 1 (Rally Leader)
+- Player 2 (Rally Leader)
+- Player 3 (Garrison Captain)
+- Player 4 (Garrison Captain)
+- Player 5 (Star Player)
+- Player 6 (Star Player)
+- Player 7 (Star Player)
+- Player 8 (Star Player)
+- Player 9 (Star Player)
+- Player 10 (Sky Player)
+- Player 11 (Sky Player)
+- Player 12 (Sky Player)
+- Player 13 (Sky Player)
+- Player 14 (Sky Player)
+- Player 15 (Farm Master)
+
+### Bottom Team
+
+- Player 1 (Rally Leader)
+- Player 2 (Rally Leader)
+- Player 3 (Garrison Captain)
+- Player 4 (Garrison Captain)
+- Player 5 (Star player)
+- Player 6 (Star player)
+- Player 7 (Star player)
+- Player 8 (Star player)
+- Player 9 (Star player)
+- Player 10 (Sky Player)
+- Player 11 (Sky Player)
+- Player 12 (Sky Player)
+- Player 13 (Sky Player)
+- Player 14 (Sky Player)
+- Player 15 (Farm Master)
