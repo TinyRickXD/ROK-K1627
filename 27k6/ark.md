@@ -76,15 +76,18 @@
 
 ### Rally leader
 
-- Ability to assign markers.
-- You will be assigned to a strong hold which you have to keep rallying.
-- When you launch rally make sure you're free marches are already marching towards the stronghold for open field support.
+- Ability to `assign markers`.
+- Use best equipment on `rally` commander.
+- You will be assigned to a `stronghold` which you have to keep rallying after delay of `1 minute`.
+- When you launch rally make sure your free marches are already marching towards the stronghold for open field support.
 
 ### Garrison Captain
 
-- Ability to assign markers.
-- Always have your commander inside the strong hold.
-- Make sure to have free marches at your garrison for open field support.
+- Ability to `assign markers`.
+- Use best equipment on `garrison` commander.
+- Always have your `garrison` commander inside the stronghold.
+- Always refresh your `garrison commander` if it's health is lower than `40%`.
+- Make sure to have free marches at your `garrison` for open field support.
 
 ### Farm Master
 
@@ -95,13 +98,14 @@
 ## Star Player
 
 - Can join there side of rallies & garrison.
-- Will mainly focus field fights right next the middle ground. So they can run towards ark in less time before ark spawns.
-- Star Players will only fight open field battles right next the middle ground.
+- Star player will mainly support open field near `Shrine of war` and `Desert Altar`.
+- They will march to middle with free marches `5 minutes` before ark spawns.
 
-## Star Player
+## Sky Player
 
 - Can join there side of rallies & garrison.
-- Will support rallies and garrison on Corners & will divide them selves to star player's position before ark spawns.
+- Sky player will mainly support open field near `Shrine of life` and `Sky Altar`.
+- If theres not heavy push from opponent will join to open field. (depends on the situation)
 
 ---
 
