@@ -4,6 +4,45 @@
 
 ---
 
+## Teams
+
+### Top Team
+
+> Markers:
+
+- Player 1 (Rally Leader)
+- Player 2 (Garrison)
+- Player 3 (Star player)
+- Player 4 (Star player)
+- Player 5 (Farmer)
+- Player 6
+- Player 7
+- Player 8
+
+### Bottom Team
+
+- Player 1 (Rally Leader)
+- Player 2 (Garrison)
+- Player 3 (Star player)
+- Player 4 (Star player)
+- Player 5 (Farmer)
+- Player 6
+- Player 7
+- Player 8
+
+---
+
+## Requirements to join the team:
+
+- Max war technology of one troop type.
+- 5 level 60 commanders for field battles and reinforcements.
+- 10 Million power in terms of troops OR 2.5 Millions T4/T5 troops [NO SEIGE].
+- Access to discord <a href="https://discord.gg/fjh5JWa">Join Now</a>.
+- Basic ability to read markers.
+- At least 25% army expansions and 5% attack boost.
+
+---
+
 ## Rules
 
 > Not following them will remove you from future osiris matches.
@@ -16,17 +55,6 @@
 - Launching rally when you're not `assigned` the role of rally leader.
 - Not having `garrison` on your `assigned` stronghold.
 - Launching rally with `Epics`, <a href="#banned rallies">Banned Rally Commanders</a> ands `Non Expertized Commanders`.
-
----
-
-## Requirements to join the team:
-
-- Max war technology of one troop type.
-- 5 level 60 commanders for field battles and reinforcements.
-- 10 Million power in terms of troops OR 2.5 Millions T4/T5 troops [NO SEIGE].
-- Access to discord <a href="https://discord.gg/fjh5JWa">Join Now</a>.
-- Basic ability to read markers.
-- At least 25% army expansions and 5% attack boost.
 
 ---
 
