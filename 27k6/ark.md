@@ -1,6 +1,6 @@
 # Ark of Osiris roles, guide and rules for K627
 
-> You can use locked commanders in osiris if you wish to utilize them and wanna be rally leader contact me in game.
+> You can use locked commanders in osiris if you wish to utilize them and wanna be rally leader contact me via discord.
 
 ---
 
@@ -28,6 +28,20 @@
 - Launching rally when you're not `assigned` the role of rally leader.
 - Not having `garrison commander` on your `assigned` stronghold.
 - Launching rally with `Epics`, `Not Allowed Commanders` ands `Non Expertize Commanders`.
+
+---
+
+## Required screenshots for membership.
+
+> Must send these screenshots to me via discord.
+> Do not send message regarding ark in game.
+> Sending invalid screenshots will simply ignore your request.
+> Rally leaders & garrison captains will be selected based on type of equipments.
+
+- Commanders sorted by power.
+- Equipments (From your bag).
+- Your profile with troops power.
+- Amount of troops.
 
 ---
 
@@ -109,6 +123,24 @@
 - In case of heavy push during ark spawns they will be responsible of supporting open field for complete area of assigned team. Which includes `Shrine of War`, `Shrine of life`, `Desert Altar` and `Sky Altar`.
 - If theres not heavy push on `strongholds` from opponent when ark spawns then you can come to support in middle.
 
+## Obilesk Capture
+
+> This role is only valid on early game
+
+- One of the rally leaders must have level 60 Expertise Cao Cao + max Minamoto or genghis to capture our side of Obilesk.
+- Fast Mobility talent tree for Cao Cao.
+- Use T1 cavalry troop.
+
+## Ninja
+
+> This role is only valid on early game
+> Only star player can
+
+- For this role you have level 60 Expertise Cao Cao + max Minamoto or genghis.
+- You will launch rally on enemy Obilisek as soon as match start.
+- Make sure only your team players join rally.
+- In case enemy rally hits there obilesk you cancel your rally & try to capture enemy's strongholds.
+
 ---
 
 ## Teams
@@ -121,7 +153,7 @@
 - Player 2 (Rally Leader)
 - Player 3 (Garrison Captain)
 - Player 4 (Garrison Captain)
-- Player 5 (Star Player) [Max Cao Cao Rally enemy obilesk]
+- Player 5 (Star Player) [Ninja]
 - Player 6 (Star Player)
 - Player 7 (Star Player)
 - Player 8 (Star Player)
@@ -141,7 +173,7 @@
 - Player 2 (Rally Leader)
 - Player 3 (Garrison Captain)
 - Player 4 (Garrison Captain)
-- Player 5 (Star player) [Max Cao Cao Rally enemy obilesk]
+- Player 5 (Star player) [Ninja]
 - Player 6 (Star player)
 - Player 7 (Star player)
 - Player 8 (Star player)
