@@ -1,6 +1,8 @@
-# Ark of Osiris roles, guide and rules for K627
+# Ark of Osiris roles, guide and rules for 27K6
 
 > You can use locked commanders in osiris if you wish to utilize them and wanna be rally leader contact me via discord.
+
+## Discord Server: <a href="https://discord.gg/fjh5JWa">https://discord.gg/fjh5JWa</a>
 
 ---
 
@@ -110,20 +112,20 @@
 - You will be responsible for having 1 or 2 march to `protect outposts` especially when `ARK` appears.
 - You can do join reinforcements and `filed battles` when ark is successfully delivered.
 
-## Star Player
+### Star Player
 
 - Must `reinforce` rallies and garrison of their assigned team.
 - Star player will mainly support `open field` near `Shrine of war` and `Desert Altar`.
 - They will `mobilize` to middle with free marches `5 minutes` before ark spawns.
 
-## Sky Player
+### Sky Player
 
 - Must `reinforce` rallies and garrison of their assigned team.
 - Sky player will mainly support `open field` near `Shrine of life` and `Sky Altar`.
 - In case of heavy push during ark spawns they will be responsible of supporting open field for complete area of assigned team. Which includes `Shrine of War`, `Shrine of life`, `Desert Altar` and `Sky Altar`.
 - If theres not heavy push on `strongholds` from opponent when ark spawns then you can come to support in middle.
 
-## Obilesk Capture
+### Obilesk Capture
 
 > This role is only valid on early game
 
@@ -131,7 +133,7 @@
 - Fast Mobility talent tree for Cao Cao.
 - Use T1 cavalry troop.
 
-## Ninja
+### Ninja
 
 > This role is only valid on early game
 > Only star player can
