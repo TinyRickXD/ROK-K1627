@@ -58,7 +58,7 @@
 - Never `swarm` a building alone wait for rally to hit first.
 - Always make sure to prioritize reinforcing `rallies` and `garrisons` instead of `field battles`.
 - Good practice is to keep 3-4 strong marches for `field battles`, Use 1-2 marches to reinforce rallies and garrison.
-- Never reinforce rally and garrison from `far away`. Make your bring your march `near` by and then reinforce.
+- Never reinforce rally and garrison from `far away`. Bring your march `near` by and then reinforce.
 - You can swarm pretty much any rally except `Attilla/Takeda`. Never ever `swarm` Attilla/Takeda unless you wish to `fill hospital` very early.
 
 ---
