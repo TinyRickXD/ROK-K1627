@@ -151,46 +151,46 @@
 
 > Markers:
 
-1 Tiny Rick XD (Rally Leader) [Obilesk Capture]
-2 Player 2 (Rally Leader)
-3 Player 3 (Garrison Captain)
-4 Player 4 (Garrison Captain)
-5 Vallek (Star Player) [Ninja]
-6 Jouske (Star Player)
-7 Player 7 (Star Player)
-8 Player 8 (Star Player)
-9 Player 9 (Star Player)
-10 Cool K (Sky Player)
-11 Player 11 (Sky Player)
-12 Player 12 (Sky Player)
-13 Player 13 (Sky Player)
-14 Player 14 (Sky Player)
-15 Player 15 (Farm Master)
+- 1 Tiny Rick XD (Rally Leader) [Obilesk Capture]
+- 2 Player 2 (Rally Leader)
+- 3 Player 3 (Garrison Captain)
+- 4 Player 4 (Garrison Captain)
+- 5 Vallek (Star Player) [Ninja]
+- 6 Jouske (Star Player)
+- 7 Player 7 (Star Player)
+- 8 Player 8 (Star Player)
+- 9 Player 9 (Star Player)
+- 10 Cool K (Sky Player)
+- 11 Player 11 (Sky Player)
+- 12 Player 12 (Sky Player)
+- 13 Player 13 (Sky Player)
+- 14 Player 14 (Sky Player)
+- 15 Player 15 (Farm Master)
 
 > Backups
 
-1 Cream Candy (Farm Master)
+- 1 Cream Candy (Farm Master)
 
 ### Bottom Team
 
 > Markers:
 
-1 Rime 辣兔头 (Rally Leader) [Obilesk Capture]
-2 Player 2 (Rally Leader)
-3 Player 3 (Garrison Captain)
-4 Player 4 (Garrison Captain)
-5 Blood Sun (Star player) [Ninja]
-6 C4ptainPanic (Star player)
-7 Player 7 (Star player)
-8 Player 8 (Star player)
-9 Player 9 (Star player)
-10 K6 Nonal (Sky Player)
-11 Player 11 (Sky Player)
-12 Player 12 (Sky Player)
-13 Player 13 (Sky Player)
-14 Player 14 (Sky Player)
-15 Player 15 (Farm Master)
+- 1 Rime 辣兔头 (Rally Leader) [Obilesk Capture]
+- 2 Player 2 (Rally Leader)
+- 3 Player 3 (Garrison Captain)
+- 4 Player 4 (Garrison Captain)
+- 5 Blood Sun (Star player) [Ninja]
+- 6 C4ptainPanic (Star player)
+- 7 Player 7 (Star player)
+- 8 Player 8 (Star player)
+- 9 Player 9 (Star player)
+- 10 K6 Nonal (Sky Player)
+- 11 Player 11 (Sky Player)
+- 12 Player 12 (Sky Player)
+- 13 Player 13 (Sky Player)
+- 14 Player 14 (Sky Player)
+- 15 Player 15 (Farm Master)
 
 > Backups
 
-- Shamsik (Farm Master)
+- 1 Shamsik (Farm Master)
