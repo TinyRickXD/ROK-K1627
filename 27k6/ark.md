@@ -185,7 +185,7 @@
 - 8 Player 8 (Star player)
 - 9 Player 9 (Star player)
 - 10 `K6 Nonal` (Sky Player)
-- 11 Player 11 (Sky Player)
+- 11 `Luchsheff` (Sky Player)
 - 12 Player 12 (Sky Player)
 - 13 Player 13 (Sky Player)
 - 14 Player 14 (Sky Player)
