@@ -176,7 +176,7 @@
 > Markers:
 
 - 1 `Rime 辣兔头` (Rally Leader) [Obilesk Capture]
-- 2 Player 2 (Rally Leader)
+- 2 `McQueen` (Rally Leader)
 - 3 Player 3 (Garrison Captain)
 - 4 Player 4 (Garrison Captain)
 - 5 `Blood Sun` (Star player) [Ninja]
